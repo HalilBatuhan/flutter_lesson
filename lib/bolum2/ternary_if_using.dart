@@ -1,6 +1,6 @@
 main(List<String> args) {
   int numb1 = 21;
-  int numb2 = 22;
+  int numb2 = 12;
   int x;
 
   print("A değeri = $numb1");
