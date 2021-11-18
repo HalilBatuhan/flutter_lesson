@@ -11,7 +11,7 @@ main(List<String> args) {
   }
   print("---------------------------------------");
 
-  int not = 11;
+  int not = 12;
   /*
     80-100 = Çok İyi
     80-70 = İyi
