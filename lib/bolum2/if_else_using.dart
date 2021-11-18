@@ -1,5 +1,5 @@
 main(List<String> args) {
-  int numb1 = 9;
+  int numb1 = 12;
   int numb2 = 2;
 
   if (numb1 > numb2) {

@@ -2,7 +2,7 @@ void main(List<String> args) {
   const String not = "AA";
 
   switch (not) {
-    case "asda":
+    case "AA":
       print("Notunuz 90-100 aralığındadır");
       break;
 
@@ -33,7 +33,7 @@ void main(List<String> args) {
   }
   print("---------------------------");
 
-  int sayi = 123123;
+  int sayi = 1231223;
   int bolum = (sayi / 10).toInt();
 
   switch (bolum) {

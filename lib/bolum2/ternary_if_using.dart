@@ -1,5 +1,5 @@
 main(List<String> args) {
-  int numb1 = 21;
+  int numb1 = 12;
   int numb2 = 12;
   int x;
 
