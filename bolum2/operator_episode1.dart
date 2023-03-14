@@ -45,4 +45,31 @@ void main(List<String> args) {
   print(!req2);
   print(req1 && req2);
   print(req1 || req2);
+
+  //Increase and decrease operations,
+  int number6 = 5;
+  number1++; //This operation increases the number by one.
+  print(number1);
+  int number7 = 10;
+  print(
+      number2++); //In this operation, if the pluses are at the end of the variable, it prints the variable first and then increments it.
+
+  print(
+      ++number2); //In this process, if the plus is at the end of the variable, it first increases the variable and then writes it to the screen.
+
+  /*
+  Process priority
+  1. ()
+  2. ++ or --
+  3. * or /
+  4. + or -
+  5. = Assignment processes
+  6. ++ or -- (Exm. number1++)
+  */
+
+  var number8 = 5;
+  var number9 = 6;
+  var exportValue;
+  exportValue = (number3 * number4 + 4 * 2) + number3 + 15 * 2 / number3 * 10;
+  print(exportValue);
 }
